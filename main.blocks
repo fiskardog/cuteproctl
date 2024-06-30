@@ -1,0 +1,3 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><comment id="|vQ}k_@.Du3Jc-WU$5~;" x="215" y="-175" h="202" w="408">Bit:Commander to send  numbric command based
+on button pushed.
+Stop everything on joystick button, or  button B.</comment><block type="pxt-on-start" id="{~Xac7Tc-Ux:)VNw|bng" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="V[awC7T/#w:4QbB~3q09"><field name="i">IconNames.TShirt</field></block></statement></block></xml>
